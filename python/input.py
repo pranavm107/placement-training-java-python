@@ -1,0 +1,10 @@
+a = int(input("Enter Number 1: "))
+b = int(input("Enter Number 2: "))
+
+print(f"Sum: {a+b}")
+print(f"Sub: {a-b}")
+print(f"Multiply: {a*b}")
+print(f"Divide: {a/b}")
+print(f"Modulus: {a%b}")
+print(f"Floor Diviion: {a//b}")
+print(f"Power: {a**b}")
